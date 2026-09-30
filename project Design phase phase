@@ -1,0 +1,143 @@
+LegalEase – Project Design Phase
+1. System Design
+LegalEase is designed as a web-based application that allows users to create legal document drafts using AI. The system is divided into frontend, backend, AI processing, and database modules.
+
+2. User Interface Design
+The website contains:
+Home page
+Login/Register page
+
+Document selection page
+
+Information input form
+
+Generated document page
+
+Edit and preview page
+
+Download page
+
+User dashboard
+
+3. System Architecture
+User
+  ↓
+Frontend Website
+  ↓
+Backend Server
+  ↓
+AI Document Generator
+  ↓
+Generated Legal Draft
+  ↓
+Database
+  ↓
+Preview / Edit / Download
+
+4. Main Modules
+User Module
+User registration and login
+
+Manage profile
+
+View saved documents
+
+Document Module
+Select document type
+
+Enter required information
+
+Generate document
+
+Edit and preview document
+
+Download document
+
+AI Module
+Understand user-provided information
+
+Select appropriate template/structure
+
+Generate a customized legal document draft
+
+Explain complex clauses in simple language
+
+Database Module
+Stores:
+
+User information
+
+Document details
+
+Generated documents
+
+Saved drafts
+
+5. Database Design
+Example tables:
+
+Users
+
+User ID
+
+Name
+
+Email
+
+Password
+
+Documents
+
+Document ID
+
+User ID
+
+Document Type
+
+Content
+
+Created Date
+
+6. Technology Design
+Frontend: HTML, CSS, JavaScript
+
+Backend: Node.js / Python
+
+Database: MySQL / MongoDB
+
+AI: AI API
+
+Hosting: Cloud/web server
+
+7. Security Design
+Secure login
+
+Password protection
+
+Data encryption
+
+Access control
+
+Secure document storage
+
+User privacy protection
+
+8. System Workflow
+Login/Register
+      ↓
+Choose Legal Document
+      ↓
+Enter Required Details
+      ↓
+Submit Information
+      ↓
+AI Generates Draft
+      ↓
+Preview Document
+      ↓
+Edit if Required
+      ↓
+Save / Download
+
+9. Design Goal
+The main goal of the design is to make LegalEase simple, fast, secure, and easy to use, even for users who have little knowledge of legal terminology.
