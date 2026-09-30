@@ -1,58 +1,33 @@
 LegalEase – Project Documentation Phase
 1. Purpose
 The documentation phase records all information about the LegalEase project, including its requirements, design, development, testing, and implementation.
-
 2. Documents Prepared
 Project Overview: Introduction, objectives, and scope.
-
 Requirement Document: Functional and non-functional requirements.
-
 Design Document: System architecture, modules, database, and UI design.
-
 Development Documentation: Technologies, code structure, and implementation details.
-
 Testing Document: Test cases, results, and bug fixes.
-
 User Manual: Instructions for using the LegalEase website.
-
 Installation Guide: Steps required to install and run the application.
-
 Maintenance Document: Information about future updates and improvements.
-
 3. User Manual
 The manual explains how users can:
-
 Register or log in.
-
 Select a legal document type.
-
 Enter the required information.
-
 Generate a document draft.
-
 Review and edit the draft.
-
 Save or download the document.
-
 4. Technical Documentation
 It includes:
-
 System architecture
-
 Database structure
-
 API details
-
 AI integration
-
 Software and hardware requirements
-
 Security measures
-
 5. Final Project Report
 The final report contains the complete project journey:
-
 Planning → Requirements → Design → Development → Testing → Documentation → Deployment
-
 6. Expected Outcome
 Proper documentation makes the LegalEase project easier to understand, maintain, test, modify, and develop further.
