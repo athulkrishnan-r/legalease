@@ -1,1 +1,21 @@
-
+LegalEase – Requirement AnalysisFunctional Requirements:
+User registration/login
+Select legal document type
+Enter required details
+Generate document using AI
+Edit and preview the document
+Download the document
+Non-Functional Requirements:
+Easy-to-use interface
+Fast response time
+Secure user data
+Mobile-friendly design
+Reliable and scalable system
+Hardware/Software Requirements:
+Web browser and internet connection
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js/Python
+Database: MySQL/MongoDB
+AI API for document generation
+Emergent Labs
+Build Real Apps Without Code
