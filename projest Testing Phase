@@ -1,1 +1,38 @@
+LegalEase – Project Testing Phase
+1. Purpose
+The testing phase ensures that the LegalEase website works correctly, securely, and efficiently without major errors.
+
+2. Types of Testing
+Unit Testing: Test individual modules such as login, forms, and document generation.
+
+Integration Testing: Check whether frontend, backend, database, and AI work together correctly.
+
+Functional Testing: Verify that all features perform according to requirements.
+
+UI Testing: Check the website layout, buttons, forms, and mobile responsiveness.
+
+Security Testing: Ensure user data and documents are protected.
+
+Performance Testing: Check loading speed and response time.
+
+User Acceptance Testing: Test whether the system is easy and useful for end users.
+
+3. Test Cases
+Test Case	Expected Result
+User login	User successfully logs in
+Select document type	Correct document form appears
+Enter details	Information is accepted
+Generate document	Draft is generated correctly
+Edit document	Changes are saved
+Download document	Document downloads successfully
+Invalid input	Appropriate error message appears
+Mobile access	Website displays properly
+
+4. Bug Handling
+Detected errors are recorded, corrected by the development team, and tested again to confirm that they are resolved.
+
+5. Final Testing Result
+After successful testing, LegalEase is ready for deployment. The generated documents should be treated as drafts for informational purposes, with important legal documents reviewed by a qualified legal professional.
+
+
 
